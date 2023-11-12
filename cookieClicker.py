@@ -40,7 +40,6 @@ while(1):
 
         if "," in money:
             money = money.replace(",", "")
-            print(f'money:{money}')
         
         cookie_price = int(money)
 
